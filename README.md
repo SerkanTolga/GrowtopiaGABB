@@ -1,5 +1,5 @@
 # GABB-Source
-Edited Gabb Source Made by SrMotion#1337 credits to reiko
+Edited Gabb Source Made by Ser2xy#0098 credits to me u can message me on discord
 
 # Don't Connecting GABB Server
 ![Alt Text](GABB.png)
